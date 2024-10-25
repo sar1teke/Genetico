@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genetik_Algoritma_Odevi", "Genetik_Algoritma_Odevi\Genetik_Algoritma_Odevi.csproj", "{BE980FCB-76E0-49E3-B3FE-B82A80D817AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE980FCB-76E0-49E3-B3FE-B82A80D817AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE980FCB-76E0-49E3-B3FE-B82A80D817AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE980FCB-76E0-49E3-B3FE-B82A80D817AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE980FCB-76E0-49E3-B3FE-B82A80D817AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C4902D4-8645-430E-96D5-F282F1DAF4E4}
+	EndGlobalSection
+EndGlobal
